@@ -1,0 +1,86 @@
+#topBanner{
+  background-color:#216b47;
+}
+#navOptions{
+  background-color: gray;
+}
+#navOptions li {
+  display: inline;
+  color: black;
+  margin-right: 20%;
+  text-align: center;
+  font-size: 1em;
+}
+a{
+  color: white;
+}
+.option-tab {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.loginBox {
+  margin-top: 150px;
+  margin-left: 320px;
+}
+.loginBox2 {
+  padding-bottom: 20px;
+  background-color: #f1e7da;
+  width: 300px;
+  box-shadow: 1px 5px 5px #888888;
+}
+h3 {
+  text-align: center;
+}
+.loginbutton {
+  text-align: center;
+  margin-left: 110px
+}
+hr {
+  background-color:#003300;
+  height: 1px;
+  border: 0;
+}
+
+.home1 {
+  background-size: cover;
+  background-position: 100% 70%;
+  background-image: url(../img/coffee.jpg);
+}
+.home2 {
+  background-image: url(../img/coffee-bags.jpg)
+}
+.home3 {
+  background-image: url(../img/cup-steam.jpg);
+  background-size: cover;
+  background-position: 100% 30%;
+}
+.home4 {
+  float: right;
+  padding-top: 40px;
+  padding-bottom: 220px;
+}
+
+.tagline1 {
+  text-align: left;
+  color: white;
+  padding-bottom: 220px;
+}
+.tagline3 {
+  color: white;
+  padding-top: 40px;
+  padding-left: 20px;
+  padding-bottom: 220px;
+}
+.tagline4 {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 220px;
+}
+.growerimage {
+  transform: rotate(10deg);
+  margin-top: 50px;
+  margin-left: 50px;
+
+}
